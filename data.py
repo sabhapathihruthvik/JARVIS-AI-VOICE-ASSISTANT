@@ -9,21 +9,12 @@ def speak(text):
     engine.runAndWait()
 # Contact list
 contacts = {
-    "amma": "918639194136",
-    "appa": "919515042801",
-    "sumanth": "916300147979",
-    "sweety": "917780593512",
-    "paavanam": "919182866646",
-    "sushanth": "919177961089"
+    "name":"91phonenumber"
 }
 
 # Contact List
 EMAIL_CONTACTS = {
-    "pawan": "shruthvik123@gmail.com",
-    "sumanth": "shruthvik123@gmail.com",
-    "amma": "shruthvik123@gmail.com",
-    "appa": "shruthvik123@gmail.com",
-    "friend": "friendemail@gmail.com"
+   "name":"email address"
 }
 
 apps = {
